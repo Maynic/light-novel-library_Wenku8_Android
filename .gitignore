@@ -78,3 +78,14 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 .DS_Store
+
+.gradle
+/local.properties
+.idea/
+.DS_Store
+/build
+
+# distributions
+baidu/
+coolapk/
+alpha/
