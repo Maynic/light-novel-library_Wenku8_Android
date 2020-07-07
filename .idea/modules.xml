@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-light-novel-library_Wenku8_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-light-novel-library_Wenku8_Android.iml" group="light-novel-library_Wenku8_Android" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="light-novel-library_Wenku8_Android/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/light-novel-library_Wenku8_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/light-novel-library_Wenku8_Android.iml" group="light-novel-library_Wenku8_Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/light-novel-library_Wenku8_Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/light-novel-library_Wenku8_Android-app.iml" group="light-novel-library_Wenku8_Android/app" />
     </modules>
   </component>
 </project>
